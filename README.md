@@ -1,1 +1,1 @@
-Testowe robienie commitow na githuba na studia
+Testowe robienie commitow na githuba na studia,
