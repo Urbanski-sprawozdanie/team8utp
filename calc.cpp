@@ -13,7 +13,7 @@ int main(void){
 	cout<<endl<<"Dodawanie x i y ="<<add(x,y);
 	cout<<endl<<"Odejmowanie x i y="<<sub(x,y);
 	cout<<endl<<"Mnozenie x i y="<<mult(x,y);
-	cout<<endl<<"Kwadrat x, kwadrat y="<<power(x)<<" , "<<power(y);
+	cout<<endl<<"Kwadrat x, kwadrat y="<<power(x)<<" , "<<power(y); //komentarz
 	return 0;
 }
 
